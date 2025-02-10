@@ -24,6 +24,8 @@ The test runs for **2 hours**, and users receive **detailed performance statisti
 ✔ **Restart button for multiple attempts**  
 ✔ **Scenario-based judgment questions included**  
 
+---
+
 ## ⚠️ Disclaimer  
 
 The questions in this CPACC quiz are **based on the CPACC Body of Knowledge** and have been **generated using ChatGPT**.  
