@@ -26,7 +26,7 @@ The test runs for **2 hours**, and users receive **detailed performance statisti
 
 ---
 ## 🚀 **Getting Started**
-### **1️⃣ Clone the Repository**
+### 1️⃣ **Clone the Repository**
 ```sh
 git clone https://github.com/SigmaMee/cpacc-quiz.git
 cd cpacc-test-simulator
@@ -44,12 +44,14 @@ npx http-server -p 5500
 Now, open your browser and go to http://localhost:5500/
 ---
 ## 📂 **Project Structure**
+``
 /cpacc-quiz
 │── index.html        # Main HTML file
 │── style.css         # CSS styles for UI
 │── script.js         # Core JavaScript logic
 │── questions.json    # Question bank (loaded dynamically)
 │── README.md         # Project documentation
+``
 ---
 ## 🏆 **Question Types**
 This simulator includes:
@@ -58,7 +60,7 @@ This simulator includes:
 - Best-solution selection questions (choosing the most effective approach)
 - Judgment-based questions (applying accessibility best practices)
 ---
-## 🛠** Customization**
+## 🛠**Customization**
 You can modify `questions.json` to:
 - Add new questions
 - Change category distribution
