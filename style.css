@@ -173,4 +173,36 @@
                 padding: 20px;
             }
         }
+
+#disclaimer {
+    background: #fff3cd;
+    border: 1px solid #ffecb5;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: left;
+    max-width: 600px;
+}
+
+#disclaimer h2, #disclaimer h3 {
+    color: #856404;
+}
+
+#disclaimer ul {
+    padding-left: 20px;
+}
+
+#disclaimer p {
+    font-size: 14px;
+}
+
+#accept-disclaimer {
+    margin-right: 5px;
+}
+
+#start-test-btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
     
