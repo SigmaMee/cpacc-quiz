@@ -10,7 +10,35 @@
     <div id="start-container">
         <h1>CPACC quiz</h1>
         <p>Welcome to the CPACC quiz. You will have 2 hours to complete 100 randomly selected questions.</p>
-        <button onclick="startTest()" class="start-btn">Start Test</button>
+        <div id="disclaimer">
+    <h2>⚠️ Disclaimer</h2>
+    <p>The questions in this CPACC Test Simulator are <strong>based on the CPACC Body of Knowledge</strong> and have been <strong>generated using AI (ChatGPT)</strong>.</p>
+
+    <h3>🔹 Potential Limitations of AI-Generated Questions</h3>
+    <ul>
+        <li><strong>Lack of Human Expertise:</strong> AI does not have real-world experience like certified accessibility experts.</li>
+        <li><strong>Possible Inaccuracies:</strong> Some questions may not fully reflect CPACC exam standards.</li>
+        <li><strong>Limited Real-World Application:</strong> Questions may oversimplify accessibility complexities.</li>
+        <li><strong>AI Bias & Simplifications:</strong> AI-generated content may miss nuances in accessibility principles.</li>
+    </ul>
+
+    <h3>✅ Best Practices for Using This Simulator</h3>
+    <ul>
+        <li>Use this as a <strong>supplementary resource</strong> alongside official CPACC study materials.</li>
+        <li>Cross-check answers with <strong>trusted accessibility guidelines</strong> (WCAG, ADA, Section 508).</li>
+        <li>Seek feedback from <strong>certified accessibility professionals</strong> for accurate insights.</li>
+        <li>Engage in <strong>real-world case studies and accessibility audits</strong> to deepen your knowledge.</li>
+    </ul>
+
+    <p>📚 For official CPACC exam preparation, refer to <strong>IAAP's study materials</strong> and recognized accessibility standards.</p>
+    
+    <label>
+        <input type="checkbox" id="accept-disclaimer"> I have read and understand this disclaimer.
+    </label>
+</div>
+<button id="start-test-btn" class="start-btn" onclick="startTest()" disabled>Start Test</button>
+
+       
     </div>
 
     <main id="test-container" style="display: none;">
