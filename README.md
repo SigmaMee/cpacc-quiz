@@ -31,7 +31,7 @@ The test runs for **2 hours**, and users receive **detailed performance statisti
 git clone https://github.com/SigmaMee/cpacc-quiz.git
 cd cpacc-test-simulator
 ```
-### **2️⃣ Start a Local Server
+### **2️⃣ Start a Local Server**
 To avoid CORS issues when loading questions.json, start a simple HTTP server:
 Using Python
 ```sh
