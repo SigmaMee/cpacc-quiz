@@ -75,6 +75,7 @@
         .start-btn {
             background: #28a745;
             color: white;
+                max-width: 600px;
         }
 
         .option-btn {
