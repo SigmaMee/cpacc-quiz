@@ -9,9 +9,9 @@ This simulator presents **100 randomly selected questions** from a **large quest
 - **Standards, Laws & Management Strategies (20%)**
 
 The test runs for **2 hours**, and users receive **detailed performance statistics at the end**, including:
-✅ **Score percentage**  
-✅ **Review of incorrect answers**  
-✅ **Breakdown of mistakes by category**  
+- ✅ **Score percentage**  
+- ✅ **Review of incorrect answers**  
+- ✅ **Breakdown of mistakes by category**  
 
 ---
 
