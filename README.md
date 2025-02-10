@@ -41,17 +41,17 @@ Using Node.js
 ```sh
 npx http-server -p 5500
 ```
-Now, open your browser and go to http://localhost:5500/
+
 ---
 ## 📂 **Project Structure**
-``
+```
 /cpacc-quiz
 │── index.html        # Main HTML file
 │── style.css         # CSS styles for UI
 │── script.js         # Core JavaScript logic
 │── questions.json    # Question bank (loaded dynamically)
 │── README.md         # Project documentation
-``
+```
 ---
 ## 🏆 **Question Types**
 This simulator includes:
