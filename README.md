@@ -25,4 +25,10 @@ The test runs for **2 hours**, and users receive **detailed performance statisti
 ✔ **Scenario-based judgment questions included**  
 
 ---
+## 🚀 **Getting Started**
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/SigmaMee/cpacc-quiz.git
+cd cpacc-test-simulator
+### **2️⃣ Start a Local Server
 
