@@ -1,0 +1,352 @@
+[
+    { "question": "Which of the following models views disability as a problem caused by societal barriers rather than an individual’s impairment?", "options": ["Medical Model", "Social Model", "Charity Model", "Economic Model"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which assistive technology would best support a person with visual impairments in navigating a website?", "options": ["Speech-to-text software", "Screen reader", "Captioning tools", "Joystick-controlled mouse"], "correct": 1, "theme": "disabilities" },
+    { "question": "What is a key characteristic of the Medical Model of disability?", "options": ["It emphasizes creating accessible environments.", "It views disability as an individual’s problem requiring medical intervention.", "It focuses on the cultural identity of people with disabilities.", "It sees disabilities primarily as economic burdens."], "correct": 1, "theme": "disabilities" },
+    { "question": "For someone with a cognitive disability, what accessibility solution might be most effective for completing web forms?", "options": ["Auto-complete functionality", "Screen magnification", "Real-time transcription", "Closed captioning"], "correct": 0, "theme": "disabilities" },
+    { "question": "Which of the following describes assistive technologies?", "options": ["Devices or software only available through social security systems.", "Tools designed for short-term use after a temporary injury.", "Products and systems that support individuals with disabilities in performing tasks they would otherwise find difficult.", "Technologies exclusive to physical disabilities."], "correct": 2, "theme": "disabilities" },
+    { "question": "What is the primary cause of barriers for individuals with auditory disabilities?", "options": ["Lack of assistive technologies", "Environmental and communication barriers", "Insufficient training for professionals", "Inconsistent medical treatments"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which type of assistive technology is designed to help individuals with mobility disabilities?", "options": ["Hearing aids", "Screen magnifiers", "Wheelchairs and scooters", "Braille readers"], "correct": 2, "theme": "disabilities" },
+    { "question": "What is a significant challenge faced by individuals with cognitive disabilities when using websites?", "options": ["Inaccessible color contrast", "Overly complex navigation and content", "Lack of closed captions", "Small font sizes"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which model of disability focuses on the economic implications of disability?", "options": ["Social Model", "Economic Model", "Medical Model", "Cultural Model"], "correct": 1, "theme": "disabilities" },
+    { "question": "What is the primary purpose of screen readers?", "options": ["To magnify content on the screen", "To convert text and interface elements into speech", "To translate text into braille", "To provide captions for videos"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which type of disability primarily affects a person's ability to process spoken language?", "options": ["Hearing disability", "Cognitive disability", "Motor disability", "Visual disability"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which assistive device is commonly used by individuals with low vision?", "options": ["Cochlear implant", "Braille display", "Prosthetic limb", "Joystick controller"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which of the following is a common accessibility barrier for individuals with motor disabilities?", "options": ["Complex navigation structures", "Low contrast text", "Flashing animations", "Lack of captions"], "correct": 0, "theme": "disabilities" },
+    { "question": "What condition is most likely to require voice recognition software?", "options": ["Hearing impairment", "Motor disability", "Visual impairment", "Cognitive disability"], "correct": 1, "theme": "disabilities" },
+    { "question": "What is a primary challenge for individuals with ADHD when using digital interfaces?", "options": ["Slow response times", "Overly complex layouts", "High contrast color schemes", "Lack of voice navigation"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which assistive technology is specifically designed to help individuals with quadriplegia use computers?", "options": ["Eye-tracking software", "Screen magnifier", "Hearing aids", "Closed captions"], "correct": 0, "theme": "disabilities" },
+    { "question": "Which is NOT an effective assistive technology for individuals with dyslexia?", "options": ["Text-to-speech software", "Speech-to-text software", "High-speed refreshable Braille displays", "Color-coded overlays"], "correct": 2, "theme": "disabilities" },
+    { "question": "What type of disability primarily affects fine motor control, making it difficult to use a traditional mouse?", "options": ["Cognitive disability", "Hearing impairment", "Motor disability", "Speech disorder"], "correct": 2, "theme": "disabilities" },
+    { "question": "What is a key function of an Augmentative and Alternative Communication (AAC) device?", "options": ["Amplify sound", "Convert text to speech", "Magnify screen elements", "Detect eye movement"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which of the following best defines 'sensory processing disorder'?", "options": ["A difficulty in processing auditory, visual, or tactile stimuli", "An inability to move certain muscles", "Complete loss of vision", "A form of temporary memory loss"], "correct": 0, "theme": "disabilities" },
+    { "question": "What is the primary challenge for individuals with limited dexterity?", "options": ["Lack of screen readers", "Difficulty using a mouse or keyboard", "Inability to perceive colors", "Hearing loss"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which condition may require the use of alternative input devices like head pointers?", "options": ["Dyslexia", "Parkinson's disease", "Blindness", "Color blindness"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which assistive technology benefits individuals with severe speech impairments?", "options": ["Screen magnifiers", "Hearing aids", "AAC devices", "Refreshable Braille displays"], "correct": 2, "theme": "disabilities" },
+    { "question": "How do cognitive disabilities affect web accessibility?", "options": ["By making it difficult to read text", "By reducing the ability to interact with complex navigation", "By preventing the use of a screen reader", "By eliminating the ability to see images"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which disability is most likely to require high-contrast text settings?", "options": ["Motor impairment", "Cognitive disability", "Visual impairment", "Hearing impairment"], "correct": 2, "theme": "disabilities" },
+    { "question": "Which accessibility feature helps individuals with dyscalculia?", "options": ["Text-to-speech", "Alternative text", "Clear numerical formats", "Auto-scrolling"], "correct": 2, "theme": "disabilities" },
+    { "question": "Which feature is most beneficial for users with low vision?", "options": ["Small font sizes", "High contrast modes", "Animated elements", "Complex layouts"], "correct": 1, "theme": "disabilities" },
+    { "question": "What is an example of an accessibility challenge faced by individuals with autism?", "options": ["Inability to perceive color", "Sensitivity to motion and flashing content", "Difficulty using a mouse", "Inability to process speech"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which tool helps individuals with mobility impairments type efficiently?", "options": ["Sticky keys", "Screen magnifiers", "Hearing loops", "Voice recognition software"], "correct": 3, "theme": "disabilities" },
+    { "question": "Which of the following best helps individuals with tremors use a computer?", "options": ["Braille displays", "Eye-tracking systems", "Speech-to-text", "Adjustable keyboard settings"], "correct": 3, "theme": "disabilities" },
+    { "question": "Which neurological condition is characterized by difficulty in processing numerical information?", "options": ["Dyslexia", "Dyscalculia", "Dyspraxia", "Aphasia"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which of the following conditions is most likely to require auditory processing accommodations?", "options": ["Cerebral palsy", "Dysgraphia", "Auditory processing disorder", "Spinal cord injury"], "correct": 2, "theme": "disabilities" },
+    { "question": "Which type of assistive technology would best help someone with locked-in syndrome?", "options": ["Speech-to-text", "Eye-tracking software", "Braille keyboard", "Screen magnifier"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which cognitive function is most commonly affected in individuals with traumatic brain injuries (TBI)?", "options": ["Color perception", "Executive function", "Fine motor skills", "Visual acuity"], "correct": 1, "theme": "disabilities" },
+    { "question": "Why is contrast sensitivity important for individuals with macular degeneration?", "options": ["It helps with auditory processing", "It allows them to distinguish objects more easily", "It enhances tactile perception", "It improves cognitive function"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which type of disability is most likely to affect proprioception?", "options": ["Visual impairment", "Motor impairment", "Cognitive disability", "Hearing impairment"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which factor can most significantly impact reading comprehension for individuals with ADHD?", "options": ["Small font size", "Poor contrast ratios", "Overly complex sentence structures", "Inconsistent color schemes"], "correct": 2, "theme": "disabilities" },
+    { "question": "What is the primary challenge for individuals with ALS using standard computer interfaces?", "options": ["Memory loss", "Diminished motor control", "Visual impairment", "Auditory processing difficulties"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which assistive technology is best suited for individuals with degenerative muscular conditions?", "options": ["Braille display", "Adaptive switches", "Hearing aids", "Augmentative and alternative communication (AAC) devices"], "correct": 1, "theme": "disabilities" },
+    { "question": "What is the key difference between a cochlear implant and a hearing aid?", "options": ["Cochlear implants amplify sound, hearing aids replace lost frequencies", "Cochlear implants bypass the damaged part of the ear, hearing aids amplify sound", "Hearing aids require surgery, cochlear implants do not", "Hearing aids are for profound deafness, cochlear implants are not"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which of the following is a primary function of a refreshable braille display?", "options": ["Convert text to speech", "Provide tactile output of digital text", "Magnify on-screen text", "Generate high-contrast visuals"], "correct": 1, "theme": "disabilities" },
+    { "question": "For individuals with motor impairments, which input device is commonly used as an alternative to a mouse?", "options": ["Trackpad", "Sip-and-puff switch", "Screen reader", "Captioning tool"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which cognitive disability is most associated with difficulties in following multi-step instructions?", "options": ["Dyscalculia", "ADHD", "Epilepsy", "ALS"], "correct": 1, "theme": "disabilities" },
+    { "question": "What is the primary accessibility challenge for individuals with retinitis pigmentosa?", "options": ["Difficulty distinguishing colors", "Loss of peripheral vision", "Inability to hear certain frequencies", "Reduced motor function"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which assistive technology is most useful for people with aphasia?", "options": ["Screen reader", "Augmentative and alternative communication (AAC) device", "Braille display", "Voice recognition software"], "correct": 1, "theme": "disabilities" },
+    { "question": "Why might individuals with Parkinson’s disease struggle with touchscreen devices?", "options": ["Limited visual acuity", "Unintentional tremors causing misclicks", "Hearing impairments", "Lack of color contrast"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which of the following best describes auditory neuropathy?", "options": ["A type of hearing loss where the brain cannot process sound properly", "A degenerative eye condition", "A form of paralysis affecting speech", "A difficulty with memory recall"], "correct": 0, "theme": "disabilities" },
+    { "question": "Which assistive tool is designed specifically for individuals who cannot use their hands for typing?", "options": ["Sticky keys", "Eye-tracking software", "Screen magnifier", "Braille keyboard"], "correct": 1, "theme": "disabilities" },
+    { "question": "For individuals with cognitive disabilities, what web design practice is most beneficial?", "options": ["Long paragraphs of text", "Consistent navigation and simple layouts", "High-speed animations", "Minimal text with no headings"], "correct": 1, "theme": "disabilities" },
+    { "question": "Which accessibility feature benefits individuals with photophobia?", "options": ["High contrast mode", "Increased screen brightness", "Flashing animations", "Text-to-speech"], "correct": 0, "theme": "disabilities" }, 
+    { "question": "What is the primary goal of Universal Design?", "options": ["Creating individualized solutions for unique user needs.", "Designing environments and products usable by as many people as possible without adaptation.", "Mandating accessibility laws for all public spaces.", "Ensuring all technology includes assistive tools."], "correct": 1, "theme": "accessibility" },
+    { "question": "Which principle of Universal Design is focused on accommodating a wide range of individual preferences and abilities?", "options": ["Tolerance for Error", "Simple and Intuitive Use", "Equitable Use", "Perceptible Information"], "correct": 2, "theme": "accessibility" },
+    { "question": "Which of the following best describes the difference between Universal Design and Individual Accommodations?", "options": ["Universal Design is legally mandated, while Individual Accommodations are optional.", "Universal Design benefits everyone, while Individual Accommodations are tailored for specific individuals.", "Universal Design applies to physical environments only, while Individual Accommodations apply to ICT.", "There is no difference; they are interchangeable terms."], "correct": 1, "theme": "accessibility" },
+    { "question": "Which WCAG 2.1 principle ensures that content can be navigated using a keyboard?", "options": ["Operable", "Perceivable", "Robust", "Understandable"], "correct": 0, "theme": "accessibility" },
+    { "question": "What is the best approach to make web content accessible to people with color blindness?", "options": ["Use red and green color schemes sparingly.", "Provide text alternatives and patterns in addition to color coding.", "Offer audio descriptions for all visual elements.", "Ensure all text is large and bold."], "correct": 1, "theme": "accessibility" },
+    { "question": "Which WCAG guideline ensures that content is understandable?", "options": ["Robust", "Operable", "Understandable", "Perceivable"], "correct": 2, "theme": "accessibility" },
+    { "question": "How does accessible design differ from usability?", "options": ["Accessible design focuses only on people with disabilities, usability is for everyone.", "Usability ensures efficiency, while accessibility ensures equitable use.", "Accessible design is a subset of usability focused on inclusivity.", "There is no significant difference between the two."], "correct": 2, "theme": "accessibility" },
+    { "question": "What does the principle of Tolerance for Error in Universal Design promote?", "options": ["Avoidance of hazardous situations.", "Flexibility in use.", "Efficient task completion.", "Compatibility with assistive technologies."], "correct": 0, "theme": "accessibility" },
+    { "question": "Which element is not essential for accessible web design?", "options": ["Keyboard navigation.", "Alternative text for images.", "Bright color combinations.", "Clear and descriptive headings."], "correct": 2, "theme": "accessibility" },
+    { "question": "What is the focus of Universal Design for Learning (UDL)?", "options": ["Physical accessibility in schools.", "Equitable access to education through flexible teaching methods.", "Standardized testing methods for diverse learners.", "Creating individualized education plans (IEPs) for students with disabilities."], "correct": 1, "theme": "accessibility" },
+    { "question": "Which WCAG principle ensures that content works with different assistive technologies?", "options": ["Perceivable", "Operable", "Understandable", "Robust"], "correct": 3, "theme": "accessibility" },
+    { "question": "Why is alternative text (alt text) important for images?", "options": ["Increases page load speed", "Provides a textual alternative for screen readers", "Improves SEO rankings only", "Makes images clearer"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which principle of Universal Design encourages intuitive use?", "options": ["Tolerance for Error", "Simple and Intuitive Use", "Equitable Use", "Flexibility in Use"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which element is crucial for ensuring web content remains accessible across various devices?", "options": ["Fixed font sizes", "Responsive design", "Complex animations", "Autoplay videos"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which of the following is NOT a recommended accessibility practice?", "options": ["Using sufficient color contrast", "Providing captions for multimedia", "Using only color to convey meaning", "Allowing keyboard navigation"], "correct": 2, "theme": "accessibility" },
+    { "question": "Which design element is important for individuals with dyslexia?", "options": ["Flashing content", "Sans-serif fonts", "Text-only navigation", "Fixed font sizes"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which universal design principle promotes error-free usability?", "options": ["Flexibility in Use", "Tolerance for Error", "Low Physical Effort", "Intuitive Use"], "correct": 1, "theme": "accessibility" },
+    { "question": "What is the primary reason for avoiding time-based media controls without user control?", "options": ["They slow down web page loading", "They can cause accessibility barriers for users with disabilities", "They increase battery usage", "They do not follow SEO best practices"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which of the following is an example of good accessible navigation?", "options": ["Providing only mouse-based navigation", "Using consistent menus and headings", "Using hover-only interactions", "Requiring precise mouse movements"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which WCAG success criterion ensures users can pause, stop, or hide moving content?", "options": ["1.3.1 Info and Relationships", "2.2.2 Pause, Stop, Hide", "3.1.1 Language of Page", "4.1.2 Name, Role, Value"], "correct": 1, "theme": "accessibility" },
+    { "question": "What is the main goal of Universal Design?", "options": ["Create specialized solutions for different disabilities", "Ensure usability for the widest range of people possible", "Focus only on physical accessibility", "Replace assistive technologies"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which type of font is generally recommended for accessibility?", "options": ["Decorative script fonts", "Sans-serif fonts", "Very small font sizes", "Italicized fonts"], "correct": 1, "theme": "accessibility" },
+    { "question": "Why is keyboard accessibility important?", "options": ["Many users prefer not to use a mouse", "It improves SEO rankings", "Some users rely on keyboard navigation due to motor impairments", "It is legally required"], "correct": 2, "theme": "accessibility" },
+    { "question": "Which element is crucial for users with motion sensitivity?", "options": ["Animations with no option to disable", "Smooth scrolling effects", "Ability to reduce motion effects", "Flashy transitions"], "correct": 2, "theme": "accessibility" },
+    { "question": "Which WCAG principle ensures users can comprehend content easily?", "options": ["Perceivable", "Operable", "Understandable", "Robust"], "correct": 2, "theme": "accessibility" },
+    { "question": "Why is alternative text (alt text) necessary?", "options": ["It improves website speed", "It provides a text-based alternative for non-text content", "It makes websites more colorful", "It enhances copyright protection"], "correct": 1, "theme": "accessibility" },
+    { "question": "What is the best practice for hyperlinks in accessibility?", "options": ["Using generic text like 'Click here'", "Providing descriptive link text", "Using only icons for links", "Removing all underlines"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which is an example of accessible multimedia content?", "options": ["Videos with auto-play and no captions", "Podcasts without transcripts", "Videos with captions and transcripts", "Flash-based animations"], "correct": 2, "theme": "accessibility" },
+    { "question": "What accessibility feature assists individuals with color blindness?", "options": ["Using red-green contrast", "Avoiding reliance on color alone", "Removing all images", "Adding flickering effects"], "correct": 1, "theme": "accessibility" },
+    { "question": "Why is it important to avoid long blocks of text?", "options": ["They slow down website performance", "They improve user engagement", "They make content difficult for users with cognitive disabilities", "They improve readability"], "correct": 2, "theme": "accessibility" },
+    { "question": "Which WCAG principle ensures that a website can be navigated without a touchscreen or mouse?", "options": ["Perceivable", "Operable", "Understandable", "Robust"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which of the following is an example of a 'cognitive load' barrier?", "options": ["Using simple, plain language", "Requiring users to memorize information across multiple screens", "Providing alternative text for images", "Offering a clear navigation structure"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which design principle is violated when a form does not indicate which fields are required?", "options": ["Robust", "Perceivable", "Operable", "Understandable"], "correct": 3, "theme": "accessibility" },
+    { "question": "Which factor is the most critical for ensuring accessible error messages?", "options": ["Placing them at the top of the page", "Providing error messages in red text only", "Ensuring they are descriptive and suggest corrective actions", "Using pop-ups for all errors"], "correct": 2, "theme": "accessibility" },
+    { "question": "Which of the following describes 'semantic HTML'?", "options": ["HTML that uses visual styling only", "HTML that follows WCAG Level AAA", "HTML that includes meaningful elements like <header> and <nav>", "HTML that eliminates the need for ARIA attributes"], "correct": 2, "theme": "accessibility" },
+    { "question": "Which method is best for making complex data tables accessible?", "options": ["Using nested tables", "Providing alternative text for every cell", "Using the <th> element for headers and associating with <td>", "Hiding tables from screen readers"], "correct": 2, "theme": "accessibility" },
+    { "question": "Why is the use of ARIA landmark roles beneficial?", "options": ["It forces screen readers to ignore non-text content", "It improves accessibility for sighted users only", "It provides better navigation for screen reader users", "It enhances contrast for users with low vision"], "correct": 2, "theme": "accessibility" },
+    { "question": "Which WCAG success criterion is violated if a website requires users to hover over content to reveal critical information?", "options": ["1.4.3 Contrast Minimum", "2.1.1 Keyboard", "3.3.1 Error Identification", "1.4.13 Content on Hover or Focus"], "correct": 3, "theme": "accessibility" },
+    { "question": "What is the most accessible way to design a CAPTCHA verification system?", "options": ["Use distorted text only", "Include an audio alternative and logic-based CAPTCHAs", "Rely on color differentiation", "Prevent users from accessing content without completing CAPTCHA"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which feature would most improve accessibility for users with photosensitivity?", "options": ["Adding more animations", "Ensuring content does not flash more than three times per second", "Increasing the brightness of images", "Reducing the number of headings"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which of the following is an example of inclusive design?", "options": ["Designing separate wheelchair ramps", "Creating a website that can be used with a keyboard and a mouse", "Providing separate versions of a website for different disabilities", "Using only one input method"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which WCAG principle ensures users can operate a website using only a keyboard?", "options": ["Perceivable", "Operable", "Understandable", "Robust"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which feature makes online forms more accessible?", "options": ["Placeholder text only", "Clearly labeled form fields with instructions", "Complex dropdown menus", "Hover-only labels"], "correct": 1, "theme": "accessibility" },
+    { "question": "What does 'low physical effort' mean in the context of Universal Design?", "options": ["Minimizing unnecessary movements for interaction", "Allowing only voice-based navigation", "Removing all keyboard shortcuts", "Restricting functionality to touchscreens"], "correct": 0, "theme": "accessibility" },
+    { "question": "Which of the following best helps users with cognitive disabilities navigate a website?", "options": ["Consistent navigation structure", "Auto-playing videos", "High-contrast red-green text", "Unlabeled buttons"], "correct": 0, "theme": "accessibility" },
+    { "question": "Which of the following is a benefit of semantic HTML for accessibility?", "options": ["Enhances visual appeal", "Improves readability for sighted users only", "Provides meaning and structure to assistive technologies", "Makes images more vibrant"], "correct": 2, "theme": "accessibility" },
+    { "question": "Why is providing captions for videos important?", "options": ["It makes videos more visually engaging", "It enhances SEO rankings only", "It ensures content is accessible to users with hearing impairments", "It reduces video file sizes"], "correct": 2, "theme": "accessibility" },
+    { "question": "What is a primary accessibility issue with using only color to convey information?", "options": ["It slows down loading time", "It may not be perceivable for color-blind users", "It increases contrast too much", "It only benefits mobile users"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which of the following web design practices follows WCAG guidelines?", "options": ["Using blinking text for emphasis", "Allowing users to customize font size and colors", "Hiding important content in hover menus", "Using only images without text alternatives"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which accessibility consideration is most important for users with epilepsy?", "options": ["High contrast text", "Avoiding flashing content", "Providing large buttons", "Using voice-only navigation"], "correct": 1, "theme": "accessibility" },
+    { "question": "Which of the following is a key principle of the Americans with Disabilities Act (ADA)?", "options": ["Ensuring tax breaks for employers who hire people with disabilities.", "Eliminating discrimination against people with disabilities in all areas of public life.", "Mandating Universal Design for all private housing.", "Providing financial support to people with disabilities."], "correct": 1, "theme": "standards" },
+    { "question": "What is the purpose of the Marrakesh Treaty?", "options": ["To ensure accessibility standards are adopted globally.", "To facilitate access to published works for people with visual impairments.", "To promote employment opportunities for individuals with disabilities.", "To establish procurement standards for ICT accessibility."], "correct": 1, "theme": "standards" },
+    { "question": "Which international standard is most closely aligned with ICT accessibility?", "options": ["ISO 9001", "ISO 9241-171", "ISO 14001", "ISO 31000"], "correct": 1, "theme": "standards" },
+    { "question": "Which of the following best describes the role of management champions in accessibility initiatives?", "options": ["They create assistive technologies for employees with disabilities.", "They advocate for accessibility within the organization and ensure strategic alignment.", "They monitor compliance with accessibility laws and penalize non-compliance.", "They act as external consultants to improve accessibility policies."], "correct": 1, "theme": "standards" },
+    { "question": "Which law requires federal agencies in the United States to make their electronic and information technology accessible?", "options": ["Section 508 of the Rehabilitation Act", "Americans with Disabilities Act (ADA)", "Ontarians with Disabilities Act", "Equality Act 2010"], "correct": 0, "theme": "standards" },
+    { "question": "What is the focus of the Web Content Accessibility Guidelines (WCAG)?", "options": ["Promoting assistive technologies.", "Providing web accessibility standards.", "Enforcing international disability rights.", "Establishing web usability practices."], "correct": 1, "theme": "standards" },
+    { "question": "Which country introduced the Accessibility for Ontarians with Disabilities Act (AODA)?", "options": ["United States", "Canada", "United Kingdom", "Australia"], "correct": 1, "theme": "standards" },
+    { "question": "What is a key requirement under the EU Accessibility Act?", "options": ["Mandatory training for web developers.", "Accessibility of products and services.", "Increased funding for assistive technologies.", "Standardized testing for individuals with disabilities."], "correct": 1, "theme": "standards" },
+    { "question": "Which of these is a major challenge in implementing accessibility laws?", "options": ["High costs of compliance.", "Lack of understanding and awareness.", "Resistance from disabled communities.", "Insufficient demand for accessible services."], "correct": 1, "theme": "standards" },
+    { "question": "How does Section 504 of the Rehabilitation Act differ from Section 508?", "options": ["Section 504 focuses on ICT, Section 508 addresses general accessibility.", "Section 504 ensures no discrimination in federally funded programs, Section 508 focuses on ICT accessibility.", "Section 504 applies internationally, Section 508 is U.S.-specific.", "There is no difference; they address the same issues."], "correct": 1, "theme": "standards" },
+    { "question": "What is the purpose of the Americans with Disabilities Act (ADA)?", "options": ["To provide financial assistance to disabled individuals", "To prohibit discrimination based on disability", "To regulate healthcare for disabled individuals", "To create universal design standards"], "correct": 1, "theme": "standards" },
+    { "question": "Which standard provides accessibility requirements for European ICT products?", "options": ["ISO 9001", "EN 301 549", "ISO 31000", "ADA Title III"], "correct": 1, "theme": "standards" },
+    { "question": "Which law ensures that federally funded programs in the U.S. do not discriminate against individuals with disabilities?", "options": ["Section 504 of the Rehabilitation Act", "Section 508 of the Rehabilitation Act", "ADA Title I", "WCAG 2.1"], "correct": 0, "theme": "standards" },
+    { "question": "Which accessibility standard is often used for procurement of ICT in the U.S.?", "options": ["ISO 27001", "Section 508", "AODA", "Web Content Accessibility Guidelines (WCAG)"], "correct": 1, "theme": "standards" },
+    { "question": "Which of the following is NOT covered by WCAG?", "options": ["Websites", "Mobile apps", "Physical building access", "Documents"], "correct": 2, "theme": "standards" },
+    { "question": "What is the focus of the UN Convention on the Rights of Persons with Disabilities (UNCRPD)?", "options": ["Improving assistive technology", "Establishing global accessibility laws", "Protecting the rights and dignity of persons with disabilities", "Defining disability categories"], "correct": 2, "theme": "standards" },
+    { "question": "Which country was the first to introduce legislation mandating web accessibility?", "options": ["United States", "United Kingdom", "Canada", "Australia"], "correct": 0, "theme": "standards" },
+    { "question": "What does the Accessible Canada Act (ACA) aim to achieve?", "options": ["Ensure digital accessibility only", "Eliminate barriers for people with disabilities in all areas of life", "Provide funding for disability research", "Standardize assistive technology"], "correct": 1, "theme": "standards" },
+    { "question": "Which organization is responsible for WCAG?", "options": ["United Nations", "World Wide Web Consortium (W3C)", "U.S. Congress", "European Commission"], "correct": 1, "theme": "standards" },
+    { "question": "Which law requires closed captioning for broadcast television in the U.S.?", "options": ["ADA", "Rehabilitation Act", "Telecommunications Act", "21st Century Communications and Video Accessibility Act"], "correct": 3, "theme": "standards" },
+    { "question": "Which international standard is specifically designed for web accessibility?", "options": ["ISO 9001", "ISO 9241-171", "ISO 14001", "ISO 27001"], "correct": 1, "theme": "standards" },
+    { "question": "Which law mandates accessibility of public websites in the EU?", "options": ["ADA", "Section 508", "EU Web Accessibility Directive", "Marrakesh Treaty"], "correct": 2, "theme": "standards" },
+    { "question": "What does the AODA require businesses in Ontario to do?", "options": ["Make ICT accessible", "Fund disability research", "Only provide physical accommodations", "Develop assistive technologies"], "correct": 0, "theme": "standards" },
+    { "question": "What is the purpose of the 21st Century Communications and Video Accessibility Act (CVAA)?", "options": ["Regulate media content", "Ensure accessibility of modern communications technology", "Provide healthcare funding", "Define accessible public spaces"], "correct": 1, "theme": "standards" },
+    { "question": "Which entity is responsible for developing WCAG?", "options": ["U.S. Congress", "World Wide Web Consortium (W3C)", "United Nations", "European Commission"], "correct": 1, "theme": "standards" },
+    { "question": "Which of the following is required under the UK’s Equality Act 2010?", "options": ["Businesses must accommodate employees with disabilities", "Only physical buildings need to be accessible", "All government websites must follow WCAG", "Color contrast must be at least 2:1"], "correct": 0, "theme": "standards" },
+    { "question": "Which organization enforces ADA compliance?", "options": ["Department of Justice", "Federal Communications Commission", "World Health Organization", "National Institutes of Health"], "correct": 0, "theme": "standards" },
+    { "question": "Which accessibility law applies to federally funded projects in the U.S.?", "options": ["Rehabilitation Act Section 504", "ADA Title III", "ISO 31000", "Web Content Accessibility Guidelines"], "correct": 0, "theme": "standards" },
+    { "question": "What is a primary goal of accessibility management strategies?", "options": ["Ensure compliance with laws and regulations", "Increase website traffic", "Eliminate the need for assistive technology", "Focus only on physical spaces"], "correct": 0, "theme": "standards" },
+    { "question": "What is an example of an enforcement mechanism for accessibility laws?", "options": ["Voluntary compliance", "Financial penalties for non-compliance", "User feedback", "Surveys"], "correct": 1, "theme": "standards" },
+    { "question": "Which legal framework requires EU member states to implement accessibility standards for public sector websites?", "options": ["ADA", "Section 508", "EU Web Accessibility Directive", "EN 301 549"], "correct": 2, "theme": "standards" },
+    { "question": "What is a major difference between WCAG 2.0 and WCAG 2.1?", "options": ["WCAG 2.1 introduced more criteria for mobile accessibility", "WCAG 2.1 replaced all prior guidelines", "WCAG 2.0 was only applicable in the U.S.", "WCAG 2.1 removed Level A requirements"], "correct": 0, "theme": "standards" },
+    { "question": "Which country has the strongest legal penalties for failing to meet accessibility requirements?", "options": ["United States", "United Kingdom", "Canada", "Germany"], "correct": 1, "theme": "standards" },
+    { "question": "Which law prohibits discrimination against individuals with disabilities in federally funded programs in the U.S.?", "options": ["Section 504 of the Rehabilitation Act", "Title III of the ADA", "WCAG 2.1", "Marrakesh Treaty"], "correct": 0, "theme": "standards" },
+    { "question": "Which accessibility standard specifically addresses hardware accessibility?", "options": ["ISO 31000", "EN 301 549", "Section 508", "ADA Title I"], "correct": 1, "theme": "standards" },
+    { "question": "What does the term 'reasonable accommodation' mean under the ADA?", "options": ["Modifications that place no burden on employers", "Any adjustments a person with a disability requests", "Changes that do not impose undue hardship on an organization", "Only physical alterations to buildings"], "correct": 2, "theme": "standards" },
+    { "question": "What is the primary purpose of the Accessible Canada Act (ACA)?", "options": ["Ensure accessibility in all federally regulated sectors", "Mandate accessibility for private businesses", "Fund disability research programs", "Provide grants for assistive technology"], "correct": 0, "theme": "standards" },
+    { "question": "Which of the following standards is NOT specifically related to digital accessibility?", "options": ["ISO 9241-171", "EN 301 549", "ISO 27001", "WCAG 2.1"], "correct": 2, "theme": "standards" },
+    { "question": "What is one key requirement of the UN Convention on the Rights of Persons with Disabilities (UNCRPD)?", "options": ["All countries must follow WCAG guidelines", "Ensuring equal access to information and communication", "Providing financial compensation for disabilities", "Requiring all businesses to be wheelchair accessible"], "correct": 1, "theme": "standards" },
+    { "question": "Which of the following best describes 'accessibility litigation'?", "options": ["Proactive lawsuits to enforce accessibility laws", "The process of appealing disability claims", "A requirement under WCAG 2.1", "International legal agreements on accessibility"], "correct": 0, "theme": "standards" },
+    { "question": "Which law established the requirement for web accessibility in the public sector within the European Union?", "options": ["ADA", "Section 508", "EU Web Accessibility Directive", "Rehabilitation Act"], "correct": 2, "theme": "standards" },
+    { "question": "Which WCAG guideline ensures that users can pause or stop moving content?", "options": ["1.1.1 Non-text Content", "2.2.2 Pause, Stop, Hide", "3.1.1 Language of Page", "4.1.2 Name, Role, Value"], "correct": 1, "theme": "standards" },
+    { "question": "What is a key feature of the Accessible Canada Act (ACA)?", "options": ["It only applies to government buildings", "It mandates accessibility in federally regulated sectors", "It requires all private businesses to be fully accessible", "It focuses only on physical accessibility"], "correct": 1, "theme": "standards" },
+    { "question": "Which organization is responsible for developing WCAG?", "options": ["United Nations", "World Wide Web Consortium (W3C)", "U.S. Department of Justice", "ISO"], "correct": 1, "theme": "standards" },
+    { "question": "Which country has legally required public sector organizations to comply with WCAG 2.1 Level AA?", "options": ["United States", "United Kingdom", "Australia", "India"], "correct": 1, "theme": "standards" },
+    { "question": "What is one key reason for compliance with accessibility standards?", "options": ["To improve aesthetics", "To avoid legal penalties", "To increase ad revenue", "To remove security features"], "correct": 1, "theme": "standards" },
+    { "question": "Which international agreement focuses on providing books in accessible formats for individuals with visual impairments?", "options": ["Marrakesh Treaty", "ADA", "WCAG 2.1", "ISO 31000"], "correct": 0, "theme": "standards" },
+    { "question": "What is an example of an enforcement mechanism for accessibility laws?", "options": ["Voluntary compliance", "Fines and lawsuits", "Public surveys", "User complaints only"], "correct": 1, "theme": "standards" },
+    { "question": "Which section of the Rehabilitation Act of 1973 requires equal access to federally funded programs?", "options": ["Section 504", "Section 508", "Title III", "WCAG 2.1"], "correct": 0, "theme": "standards" },
+    { "question": "Which accessibility law applies specifically to digital content and procurement in the United States?", "options": ["ADA Title III", "ISO 9241", "Section 508", "AODA"], "correct": 2, "theme": "standards" },
+    {
+        "question": "A company wants to improve workplace accessibility. Which approach best supports employees with a range of disabilities?",
+        "options": ["Providing one standard solution for all employees", "Waiting for employees to request accommodations", "Implementing flexible policies and multiple assistive technology options", "Focusing only on physical disabilities"],
+        "correct": 2,
+        "theme": "disabilities"
+      },
+      {
+        "question": "A user with dyslexia struggles with reading dense text on a webpage. What design improvement would be the most effective?",
+        "options": ["Reducing line spacing to fit more text on the screen", "Using decorative fonts to make the page more visually appealing", "Providing text-to-speech functionality and readable fonts", "Making all text uppercase to increase visibility"],
+        "correct": 2,
+        "theme": "disabilities"
+      },
+      {
+        "question": "Which situation best illustrates an inclusive mindset toward disability?",
+        "options": ["Assuming all users prefer the same assistive tools", "Consulting with people with disabilities when designing services", "Relying only on government standards for accessibility", "Designing solutions primarily for compliance rather than usability"],
+        "correct": 1,
+        "theme": "disabilities"
+      },
+      {
+        "question": "A visually impaired user struggles with a new screen reader update. What is the most responsible action for the company?",
+        "options": ["Remove support for screen readers", "Wait until more users complain before addressing the issue", "Offer training and resources while improving the update", "Limit screen reader support to one specific tool"],
+        "correct": 2,
+        "theme": "disabilities"
+      },
+      {
+        "question": "Which scenario best demonstrates an effective use of Universal Design?",
+        "options": ["Creating a separate website for users with disabilities", "Designing a website with flexible font sizes, captions, and keyboard navigation", "Providing accessibility features only when users request them", "Assuming that most users will not need accessibility features"],
+        "correct": 1,
+        "theme": "disabilities"
+      },
+      {
+        "question": "An e-learning platform wants to improve accessibility for students with cognitive disabilities. What feature should they prioritize?",
+        "options": ["Complex navigation menus to encourage problem-solving", "Autoplaying videos with fast-moving content", "Consistent page layouts, clear instructions, and simplified text", "Minimal text with no headings to reduce visual clutter"],
+        "correct": 2,
+        "theme": "disabilities"
+      },
+      {
+        "question": "A web designer is creating forms for accessibility. Which practice should they prioritize?",
+        "options": ["Place labels outside of form fields and use clear instructions", "Require hover interactions to show field labels", "Use placeholders as the only form label", "Minimize form labels to reduce visual clutter"],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "Which action best supports users with low vision?",
+        "options": ["Providing a zoom-in option and high-contrast mode", "Using small text for more screen space", "Avoiding user customization options", "Relying on color alone for contrast"],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "A transportation app wants to improve accessibility for blind users. What should they prioritize?",
+        "options": ["Ensure all critical information is accessible via screen readers", "Increase color contrast for better readability", "Provide a separate app version for blind users", "Reduce app features to simplify navigation"],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "Which best practice should be followed to ensure documents are accessible to users with disabilities?",
+        "options": ["Use structured headings, alt text for images, and accessible PDFs", "Keep documents in plain text format only", "Use images and infographics without text descriptions", "Avoid using headings to keep documents simple"],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "A user with a speech disability has trouble using voice recognition software. What is the best alternative input method?",
+        "options": ["Provide an option for keyboard and switch access", "Increase microphone sensitivity", "Require users to improve their speech clarity", "Limit accessibility to voice-only commands"],
+        "correct": 0,
+        "theme": "disabilities"
+      },
+      {
+        "question": "A visually impaired user struggles with a mobile banking app that has unlabeled buttons. What is the most effective fix?",
+        "options": ["Add meaningful labels to all interactive elements", "Increase the app’s color contrast", "Provide a separate app version for blind users", "Ignore the issue since most users don’t need screen readers"],
+        "correct": 0,
+        "theme": "disabilities"
+      },
+      {
+        "question": "Which of the following best demonstrates a proactive approach to accessibility in web development?",
+        "options": ["Building accessibility into the design process from the start", "Adding accessibility as a final step before launch", "Assuming users with disabilities will provide feedback after release", "Creating a separate, less-featured accessible version"],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "A public library's website has a complex search interface that is difficult for users with cognitive disabilities. What is the best approach to improve accessibility?",
+        "options": ["Simplify navigation, provide search filters, and offer voice search", "Keep the interface as is since most users understand it", "Reduce content on the website to make it less overwhelming", "Only provide accessibility options for registered users"],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "What is the best way to ensure accessible mobile navigation?",
+        "options": ["Use clear labels, large touch targets, and multiple navigation methods", "Rely only on swipe gestures", "Use small buttons to save space", "Require voice control for all actions"],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "A company wants to improve accessibility in its workplace. Which approach is the most effective?",
+        "options": [
+          "Offer a single standardized solution for all employees",
+          "Wait until employees request accommodations before acting",
+          "Implement flexible policies and provide multiple assistive technology options",
+          "Focus only on physical disabilities since they are the most visible"
+        ],
+        "correct": 2,
+        "theme": "disabilities"
+      },
+      {
+        "question": "An online learning platform wants to support students with cognitive disabilities. Which strategy is best?",
+        "options": [
+          "Provide clear navigation, structured content, and multiple learning formats",
+          "Use text-heavy content with minimal visual aids",
+          "Limit interactive elements to reduce distractions",
+          "Offer accommodations only when requested by students"
+        ],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "A city is updating its public transportation app to be more accessible for blind users. What is the best improvement?",
+        "options": [
+          "Provide audible announcements, screen reader support, and haptic feedback",
+          "Increase text size but avoid audio elements",
+          "Require users to rely on sighted assistants for navigation",
+          "Offer a separate 'accessible' version with fewer features"
+        ],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "A government website is being redesigned for accessibility. What is the best first step?",
+        "options": [
+          "Consult users with disabilities and conduct accessibility testing",
+          "Use automated accessibility checkers but avoid manual testing",
+          "Ensure basic compliance but ignore usability improvements",
+          "Implement accessibility features only if required by law"
+        ],
+        "correct": 0,
+        "theme": "standards"
+      },
+      {
+        "question": "A healthcare provider wants to ensure better communication with deaf patients. Which solution is best?",
+        "options": [
+          "Offer real-time ASL interpreters, captioning, and written transcripts",
+          "Train staff in basic sign language but provide no other accommodations",
+          "Require patients to bring their own interpreters",
+          "Only offer written instructions for medical procedures"
+        ],
+        "correct": 0,
+        "theme": "disabilities"
+      },
+      {
+        "question": "An e-commerce site wants to improve accessibility for visually impaired users. What is the most effective change?",
+        "options": [
+          "Ensure full screen reader support, keyboard navigation, and alt text for images",
+          "Increase text contrast but ignore screen reader compatibility",
+          "Provide a separate high-contrast mode but with limited functionality",
+          "Offer no accessibility features but add a 'contact support' button"
+        ],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "A large conference wants to be more inclusive for attendees with mobility impairments. What should they prioritize?",
+        "options": [
+          "Ensure all venues are wheelchair-accessible and provide seating accommodations",
+          "Offer accessibility on request but do not proactively make changes",
+          "Provide accessible routes but do not guarantee accessible seating",
+          "Expect attendees to bring their own mobility assistance devices"
+        ],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "A mobile banking app is not usable by people with motor impairments. What is the best fix?",
+        "options": [
+          "Support keyboard navigation, voice commands, and adaptive switch controls",
+          "Increase button sizes but do not support external assistive devices",
+          "Provide an accessibility mode but require manual activation",
+          "Keep the existing interface and rely on customer feedback for improvements"
+        ],
+        "correct": 0,
+        "theme": "disabilities"
+      },
+      {
+        "question": "A public school district wants to improve digital accessibility for students with disabilities. What is the best approach?",
+        "options": [
+          "Ensure all educational materials are available in multiple formats (captions, transcripts, accessible PDFs)",
+          "Provide accommodations only upon request",
+          "Focus on compliance rather than usability improvements",
+          "Offer accessibility options only in special education programs"
+        ],
+        "correct": 0,
+        "theme": "accessibility"
+      },
+      {
+        "question": "A company is designing an AI-powered voice assistant. How can they make it more accessible?",
+        "options": [
+          "Allow users to customize speech settings and provide alternative input methods",
+          "Require users to speak clearly without mispronunciations",
+          "Limit voice commands to one standard accent",
+          "Offer no alternative inputs, assuming all users can use voice control"
+        ],
+        "correct": 0,
+        "theme": "accessibility"
+      }
+]

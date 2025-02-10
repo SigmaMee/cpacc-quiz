@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPACC Test Simulation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="start-container">
+        <h1>CPACC Test Simulation</h1>
+        <p>Welcome to the CPACC Test Simulation. You will have 2 hours to complete 100 randomly selected questions.</p>
+        <button onclick="startTest()" class="start-btn">Start Test</button>
+    </div>
+
+    <main id="test-container" style="display: none;">
+        <div id="timer">Time Left: 2:00:00</div>
+        <div id="question-text"></div>
+        <div id="options"></div>
+        <div id="feedback"></div>
+        <button id="submit-test-btn" class="submit-btn" onclick="endTest()" style="display: none;">Submit Test</button>
+    </main>
+
+    <div id="results" style="display: none;"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
