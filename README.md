@@ -24,6 +24,36 @@ The test runs for **2 hours**, and users receive **detailed performance statisti
 ✔ **Restart button for multiple attempts**  
 ✔ **Scenario-based judgment questions included**  
 
+## ⚠️ Disclaimer  
+
+The questions in this CPACC quiz are **based on the CPACC Body of Knowledge** and have been **generated using ChatGPT**.  
+
+While AI-generated content can be a **valuable learning resource**, there are some **important considerations** to keep in mind:
+
+### 🔹 **Potential Limitations of AI-Generated Questions**
+- **Lack of Human Expertise**  
+  AI lacks real-world experience and professional judgment that **certified accessibility experts** bring. Some questions may **miss nuances** or **overlook best practices** that an expert would emphasize.
+
+- **Possible Inaccuracies**  
+  While efforts have been made to align with CPACC concepts, **errors or misinterpretations** may exist. Some questions may **not fully reflect** the exact requirements of the certification exam.
+
+- **Limited Real-World Application**  
+  AI-generated questions may **not always capture the complexity of accessibility decision-making** in real-world scenarios. 
+
+- **AI Bias & Simplifications**  
+  AI models generate content based on training data patterns, meaning **some questions might oversimplify topics** or **lack diversity in perspectives**.
+
+### ✅ **Best Practices for Using This Quiz**
+- Use this tool as a **supplementary resource** alongside **official CPACC study materials**.  
+- Cross-check any questionable answers with **trusted accessibility guidelines** like **WCAG, ADA, and Section 508**.  
+- Seek feedback from **certified accessibility professionals** for more accurate insights.  
+- Engage in real-world case studies and **hands-on accessibility audits** to deepen your knowledge.  
+
+By using this simulator, you acknowledge that it is **not an official CPACC certification resource** but an **AI-assisted learning tool**.  
+
+📚 For official CPACC exam preparation, refer to **IAAP's study materials** and **recognized accessibility standards**.  
+
+
 ---
 ## 🚀 **Getting Started**
 ### 1️⃣ **Clone the Repository**
