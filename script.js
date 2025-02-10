@@ -6,6 +6,16 @@ let timeLeft = 2 * 60 * 60; // 2 hours in seconds
 let timer;
 let questions = [];
 
+document.addEventListener("DOMContentLoaded", function() {
+    const checkbox = document.getElementById("accept-disclaimer");
+    const startButton = document.getElementById("start-test-btn");
+
+    checkbox.addEventListener("change", function() {
+        startButton.disabled = !checkbox.checked;
+    });
+});
+
+
 // ✅ Load questions from JSON file
 fetch("questions.json")
     .then(response => response.json())
