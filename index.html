@@ -1,55 +1,109 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CPACC Quiz</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#153e75">
+    <title>CPACC Practice Quiz</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="start-container">
-        <h1>CPACC quiz</h1>
-        <p>Welcome to the CPACC quiz. You will have 2 hours to complete 100 randomly selected questions.</p>
-        <div id="disclaimer">
-    <h2>⚠️ Disclaimer</h2>
-    <p>The questions in this CPACC Test Simulator are <strong>based on the CPACC Body of Knowledge</strong> and have been <strong>generated using AI (ChatGPT)</strong>.</p>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
 
-    <h3>🔹 Potential Limitations of AI-Generated Questions</h3>
-    <ul>
-        <li><strong>Lack of Human Expertise:</strong> AI does not have real-world experience like certified accessibility experts.</li>
-        <li><strong>Possible Inaccuracies:</strong> Some questions may not fully reflect CPACC exam standards.</li>
-        <li><strong>Limited Real-World Application:</strong> Questions may oversimplify accessibility complexities.</li>
-        <li><strong>AI Bias & Simplifications:</strong> AI-generated content may miss nuances in accessibility principles.</li>
-    </ul>
+    <main id="main-content" class="app-shell">
+        <section id="start-container" class="panel intro-panel" aria-labelledby="page-title">
+            <header class="intro-header">
+                <p class="eyebrow">Accessibility learning</p>
+                <h1 id="page-title">CPACC practice quiz</h1>
+                <p class="lede">Build confidence with 100 randomized questions across the CPACC body of knowledge. You’ll have two hours to complete the quiz.</p>
+                <ul class="quiz-facts" aria-label="Quiz details">
+                    <li><strong>100</strong><span>questions</span></li>
+                    <li><strong>2 hours</strong><span>time limit</span></li>
+                    <li><strong>3</strong><span>topic areas</span></li>
+                </ul>
+            </header>
 
-    <h3>✅ Best Practices for Using This Simulator</h3>
-    <ul>
-        <li>Use this as a <strong>supplementary resource</strong> alongside official CPACC study materials.</li>
-        <li>Cross-check answers with <strong>trusted accessibility guidelines</strong> (WCAG, ADA, Section 508).</li>
-        <li>Seek feedback from <strong>certified accessibility professionals</strong> for accurate insights.</li>
-        <li>Engage in <strong>real-world case studies and accessibility audits</strong> to deepen your knowledge.</li>
-    </ul>
+            <aside id="disclaimer" class="notice" aria-labelledby="disclaimer-title">
+                <div class="notice-heading">
+                    <span class="notice-icon" aria-hidden="true">i</span>
+                    <div>
+                        <p class="eyebrow">Before you begin</p>
+                        <h2 id="disclaimer-title">About this practice resource</h2>
+                    </div>
+                </div>
+                <p>These questions are based on the CPACC Body of Knowledge and were generated with AI. They may contain inaccuracies or simplify the nuance of real-world accessibility work.</p>
 
-    <p>📚 For official CPACC exam preparation, refer to <strong>IAAP's study materials</strong> and recognized accessibility standards.</p>
-    
-    <label>
-        <input type="checkbox" id="accept-disclaimer"> I have read and understand this disclaimer.
-    </label>
-</div>
-<button id="start-test-btn" class="start-btn" onclick="startTest()" disabled>Start Test</button>
+                <details>
+                    <summary>Read important limitations and study guidance</summary>
+                    <div class="details-content">
+                        <h3>Keep in mind</h3>
+                        <ul>
+                            <li>AI does not replace the judgment of certified accessibility professionals.</li>
+                            <li>Some questions may not fully reflect current CPACC exam standards.</li>
+                            <li>Scenarios may simplify complex accessibility decisions or contain bias.</li>
+                        </ul>
+                        <h3>Use this quiz effectively</h3>
+                        <ul>
+                            <li>Use it alongside official CPACC study materials.</li>
+                            <li>Cross-check answers with trusted accessibility standards and guidance.</li>
+                            <li>Pair quiz practice with case studies and hands-on accessibility audits.</li>
+                        </ul>
+                    </div>
+                </details>
 
-       
-    </div>
+                <label class="consent-control" for="accept-disclaimer">
+                    <input type="checkbox" id="accept-disclaimer">
+                    <span>I have read and understand this disclaimer.</span>
+                </label>
+            </aside>
 
-    <main id="test-container" style="display: none;">
-        <div id="timer">Time Left: 2:00:00</div>
-        <div id="question-text"></div>
-        <div id="options"></div>
-        <div id="feedback"></div>
-        <button id="submit-test-btn" class="submit-btn" onclick="endTest()" style="display: none;">Submit Test</button>
+            <p id="loading-status" class="loading-status" role="status">Loading question bank…</p>
+            <button id="start-test-btn" class="button button-primary" type="button" disabled>
+                Start practice quiz
+                <span aria-hidden="true">→</span>
+            </button>
+        </section>
+
+        <section id="test-container" class="panel quiz-panel" aria-labelledby="question-heading" hidden>
+            <header class="quiz-toolbar">
+                <div>
+                    <p class="eyebrow">Practice session</p>
+                    <p id="question-progress" class="question-progress">Question 1 of 100</p>
+                </div>
+                <div id="timer" class="timer" role="timer" aria-label="Time remaining">
+                    <span class="timer-label">Time left</span>
+                    <span id="timer-value">2:00:00</span>
+                </div>
+            </header>
+
+            <div class="progress-track" aria-hidden="true">
+                <span id="progress-bar"></span>
+            </div>
+
+            <form id="question-form">
+                <fieldset>
+                    <legend id="question-heading" tabindex="-1">Question</legend>
+                    <div id="options" class="options-list"></div>
+                </fieldset>
+            </form>
+
+            <div id="feedback" class="feedback" role="status" aria-live="polite" aria-atomic="true"></div>
+            <button id="next-question-btn" class="button button-primary" type="button" hidden>Next question <span aria-hidden="true">→</span></button>
+            <button id="submit-test-btn" class="button button-secondary" type="button">Submit quiz early</button>
+        </section>
+
+        <section id="results" class="panel results-panel" aria-labelledby="results-heading" hidden></section>
     </main>
 
-    <div id="results" style="display: none;"></div>
+    <footer class="site-footer">
+        <p>
+            <span>By Stefanos Monastiridis</span>
+            <span aria-hidden="true">·</span>
+            <a href="https://www.stmn-design.com">www.stmn-design.com</a>
+            <span aria-hidden="true">·</span>
+            <a href="https://github.com/SigmaMee/cpacc-quiz">SigmaMee/cpacc-quiz</a>
+        </p>
+    </footer>
 
     <script src="script.js"></script>
 </body>
